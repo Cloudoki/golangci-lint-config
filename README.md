@@ -1,4 +1,4 @@
-# Cloudoki's Go Linter config (golangci-lint)
+# Cyrex Enterprise Go Linter config (golangci-lint)
 
 Usage examples:
 
