@@ -3,12 +3,12 @@
 Usage examples:
 
 ```
-golangci-lint run -c <(curl https://raw.githubusercontent.com/Cloudoki/golangci-lint-config/main/config.yaml)
+golangci-lint run -c <(curl https://raw.githubusercontent.com/Cloudoki/rexe-golint-config/main/config.yaml)
 ```
 
 ```
 /tmp/.golangci.yml:
-	curl https://raw.githubusercontent.com/Cloudoki/golangci-lint-config/main/config.yaml --output /tmp/.golangci.yml
+	curl https://raw.githubusercontent.com/Cloudoki/rexe-golint-config/main/config.yaml --output /tmp/.golangci.yml
 
 .PHONY: lint
 lint: /tmp/.golangci.yml
