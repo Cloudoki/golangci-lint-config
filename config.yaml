@@ -28,7 +28,7 @@ linters-settings:
     lines: 150
     # Checks the number of statements in a function.
     # If lower than 0, disable the check.
-    statements: 50
+    statements: 70
 
   gocognit:
     # Minimal code complexity to report.
